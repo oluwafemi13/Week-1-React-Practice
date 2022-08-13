@@ -10,4 +10,6 @@ const functionalComponent = () => {
   )
 }
 
+
+
 export default functionalComponent
